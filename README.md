@@ -1,4 +1,5 @@
-###Project Overview
+### Project Overview
+
 This project is a web application developed using TypeScript and Next.js, with styling done using Styled Components. The global state management is handled by Redux Toolkit. The application integrates with an existing API to retrieve and display payouts data, allowing users to search and paginate through the results.
 
 ### 1. Styled Components and Design Adjustments
@@ -19,6 +20,8 @@ To set up and run the project locally, follow these steps:
 Clone the repository: git clone <https://github.com/ZahidGhafoor/tech-test.git>
 Install dependencies: npm install
 Run the development server: npm run dev
-###Usage
+
+### Usage
+
 Access the application through the provided development server URL.
 Explore the search and pagination functionalities to interact with the payouts data.
