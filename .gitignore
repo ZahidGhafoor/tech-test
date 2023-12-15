@@ -1,8 +1,18 @@
-
-# dependencies
+# Node.js
+node_modules/
 /node_modules
 
-# testing
-/coverage
-/build
+# Next.js
+/.next/
+/out/
 
+# IDE and Editor files
+*.idea/
+*.vscode/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
