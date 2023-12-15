@@ -25,3 +25,8 @@ Run the development server: npm run dev
 
 Access the application through the provided development server URL.
 Explore the search and pagination functionalities to interact with the payouts data.
+
+### Live Link
+
+Here is the link to access the project, and it has been deployed on Vercel.
+<https://zahid-tech-test.vercel.app/>
